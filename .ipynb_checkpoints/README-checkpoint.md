@@ -28,6 +28,7 @@ El link de zoom para las ayudantías siempre será el siguiente:
  
 [Enlace reunión por zoom](https://zoom.us/j/9103103763)
 
+Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cualquier bloque según su conveniencia y comodidad.
 
 ## Ayudantías 
 * Ayudantía 1
