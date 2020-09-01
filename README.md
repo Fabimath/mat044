@@ -22,6 +22,10 @@ Por desgracia la plataforma para programar es poco amigable. Por tanto se recomi
 
 * [R Studio](https://rstudio.com/products/rstudio/download/)
 
+## Clase de introducción a R
+
+Puedes encontrar una clase introductoria a R junto con ejemplos y códigos en el siguiente enlace
+
 # Ayudantías vía zoom
 
 El link de zoom para las ayudantías siempre será el siguiente:
