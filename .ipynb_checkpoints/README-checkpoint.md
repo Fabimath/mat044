@@ -24,7 +24,7 @@ Por desgracia la plataforma para programar es poco amigable. Por tanto se recomi
 
 ## Clase de introducción a R
 
-Puedes encontrar una clase introductoria a R junto con ejemplos y códigos en el siguiente enlace
+Puedes encontrar una clase introductoria a R junto con ejemplos y códigos en el siguiente [enlace](https://github.com/Fabimath/mat044/blob/master/ay1/intro_R.ipynb)
 
 # Ayudantías vía zoom
 
