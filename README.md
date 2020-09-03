@@ -35,4 +35,5 @@ El link de zoom para las ayudantías siempre será el siguiente:
 Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cualquier bloque según su conveniencia y comodidad.
 
 ## Ayudantías 
+
 * [Ayudantía 1](ay1/main.pdf) - [Base de datos](ay1/pokemon.csv)
