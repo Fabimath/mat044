@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  1 SEP 2020 01:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  3 SEP 2020 15:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -1743,9 +1743,26 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 815.
 )
 ("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
+sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen359
+\ar@mcellbox=\box148
+\extrarowheight=\dimen360
+\NC@list=\toks61
+\extratabsurround=\skip261
+\backup@length=\skip262
+\ar@cellbox=\box149
+)
+\everycr=\toks62
+\minrowclearance=\skip263
 ) (main.aux
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
 )
 \openout1 = `main.aux'.
 
@@ -1801,34 +1818,26 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count381
-\scratchdimen=\dimen359
-\scratchbox=\box148
+\scratchdimen=\dimen361
+\scratchbox=\box150
 \nofMPsegments=\count382
 \nofMParguments=\count383
-\everyMPshowfont=\toks61
+\everyMPshowfont=\toks63
 \MPscratchCnt=\count384
-\MPscratchDim=\dimen360
+\MPscratchDim=\dimen362
 \MPnumerator=\count385
 \makeMPintoPDFobject=\count386
-\everyMPtoPDFconversion=\toks62
+\everyMPtoPDFconversion=\toks64
 )
 ("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 9.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 9.
-\AtBeginShipoutBox=\box149
+\AtBeginShipoutBox=\box151
 Package hyperref Info: Link coloring ON on input line 9.
 
 ("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
@@ -1956,7 +1965,12 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 9.
  ("C:\Users\chime\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
+)
+Overfull \hbox (41.59946pt too wide) in paragraph at lines 25--43
+ [][][][][] 
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.59999pt.
@@ -1965,10 +1979,11 @@ This may cause the page layout to be inconsistent, however.
 
 [1{C:/Users/chime/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-]
+] [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 11.
- (main.aux
+
+(main.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
 )
@@ -1978,13 +1993,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 37403 strings out of 480799
- 763629 string characters out of 2895784
- 1170418 words of memory out of 3000000
- 52654 multiletter control sequences out of 15000+200000
- 569555 words of font info for 68 fonts, out of 3000000 for 9000
+ 37487 strings out of 480799
+ 764442 string characters out of 2895784
+ 1186969 words of memory out of 3000000
+ 52733 multiletter control sequences out of 15000+200000
+ 572285 words of font info for 70 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,97p,853b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,97p,853b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/chime/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}{C:/Users/chime/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/chime/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10
@@ -1992,9 +2007,9 @@ c}{C:/Users/chime/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 /putr8a.pfb><C:/Users/chime/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/h
 elvetic/uhvb8a.pfb><C:/Users/chime/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (1 page, 54057 bytes).
+Output written on main.pdf (2 pages, 59201 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

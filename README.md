@@ -36,4 +36,5 @@ Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cu
 
 ## Ayudantías 
 
+* [Ayudantía 0 - introducción al R](https://youtu.be/9T06_Qc2u1c) - [Pauta ayudantía 0](ay0/clase0.pdf)
 * [Ayudantía 1](ay1/main.pdf) - [Base de datos](ay1/pokemon.csv)
