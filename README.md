@@ -30,11 +30,11 @@ Puedes encontrar una clase introductoria a R junto con ejemplos y códigos en el
 
 El link de zoom para las ayudantías siempre será el siguiente:
  
- <img src="moodle_logo.svg" alt="drawing" width="40"/> [Enlace reunión por zoom](https://zoom.us/j/9103103763)
+ <img src="zoom_logo.svg" alt="drawing" width="12"/> [Enlace reunión por zoom](https://zoom.us/j/9103103763)
 
 Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cualquier bloque según su conveniencia y comodidad.
 
 ## Ayudantías 
 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Ayudantía 0 - introducción al R](https://youtu.be/9T06_Qc2u1c) - [Pauta ayudantía 0](ay0/clase0.pdf)
-* [Ayudantía 1](ay1/main.pdf) 
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Ayudantía 0 - introducción al R](https://youtu.be/9T06_Qc2u1c) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta ayudantía 0](ay0/clase0.pdf)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1](ay1/main.pdf) 
