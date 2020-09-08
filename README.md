@@ -6,7 +6,7 @@ Mi nombre es Fabián Ramírez y seré el profesor encargado de la ayudantía. Cu
 
 [Aquí](https://desktop.telegram.org/) puedes encontrar la página oficial de Telegram.
 
-**Horario de consultas**: `Por confirmar`
+**Horario de consultas**: `Agendar por correo o telegram`
 
 # Programa R
 
@@ -26,6 +26,9 @@ Por desgracia la plataforma para programar es poco amigable. Por tanto se recomi
 
 Puedes encontrar una clase introductoria a R junto con ejemplos y códigos en el siguiente [enlace](https://github.com/Fabimath/mat044/blob/master/ay1/intro_R.ipynb)
 
+* <img src="yt_logo.svg" alt="drawing" width="12"/> [Introducción al R](https://youtu.be/9T06_Qc2u1c) 
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Textos](ay0/clase0.pdf)
+
 # Ayudantías vía zoom
 
 El link de zoom para las ayudantías siempre será el siguiente:
@@ -36,5 +39,4 @@ Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cu
 
 ## Ayudantías 
 
-* <img src="yt_logo.svg" alt="drawing" width="12"/> [Ayudantía 0 - introducción al R](https://youtu.be/9T06_Qc2u1c) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta ayudantía 0](ay0/clase0.pdf)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1](ay1/main.pdf) 
