@@ -2,7 +2,7 @@
 
 Tengo el agrado de saludarlos y darles la bienvenida a la ayudantía de Probabilidad y Estadística, en este segundo semestre del 2020. 
 
-Mi nombre es Fabián Ramírez y seré el profesor encargado de la ayudantía. Cualquier duda o contacto puede ser por vía mail al correo `fabian.ramirez@sansano.usm.cl`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram de mis cursos [aquí](https://t.me/joinchat/ObaYLhxzdY08zyWqJJEK9A), recuerden `colocar su telefono privado` para evitar problemas.
+Mi nombre es Fabián Ramírez y seré el profesor encargado de la ayudantía. Cualquier duda o contacto puede ser por vía mail al correo `fabian.ramirez@sansano.usm.cl`, también en caso que quieran una respuesta rapida a un problema pueden unirse al grupo de telegram de mis cursos <img src="telegram_logo.svg" alt="drawing" width="12"/> [aquí](https://t.me/joinchat/ObaYLhxzdY08zyWqJJEK9A), recuerden `colocar su telefono privado` para evitar problemas.
 
 [Aquí](https://desktop.telegram.org/) puedes encontrar la página oficial de Telegram.
 
