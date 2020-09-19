@@ -1,8 +1,74 @@
+
+\newcommand{\evaluada}[1]{\left. \right|_{#1}}
+\newcommand{\bg}[1]{\gorro{\beta_{#1}}}
+\newcommand{\indicatriz}{\mathbbm{1}}
+\newcommand{\pvi}[1]{
+	\left\{ \begin{array}{lcc}
+		#1
+	\end{array}
+	\right.
+}
+\newcommand{\ssi}{\Longleftrightarrow}
+\newcommand{\si}{\Longrightarrow}
+\newcommand{\convergedebil}{\rightharpoonup}
+\newcommand{\cov}[1]{\text{cov}\parcurvo{ #1 }}
+\newcommand{\varianza}[1]{\mathbb{V}\parcerrado{ #1 } }
+\newcommand{\estrella}{(\bigstar)}
+\newcommand{\ecuacion}[1]{\begin{align*}
+		#1
+\end{align*}}
+\newcommand{\caja}[1]{\begin{center}
+		\shadowbox{
+			\begin{minipage}{6in}
+				\vspace*{1mm}
+				#1
+				\vspace*{1mm}
+\end{minipage}}\end{center}}
+\newcommand{\parcurvo }[1]{ \left( #1 \right)}
+\newcommand{\parllave}[1]{ \left\lbrace #1 \right\rbrace}
+\newcommand{\parcerrado}[1]{\left[ #1 \right]}
+\newcommand{\dual}[1]{#1^\ast}
+\newcommand{\gradiente}{\bigtriangledown}
+\newcommand{\parinterno}[1]{\left\langle #1 \right\rangle}
+\newcommand{\san}{\noindent}
+\newcommand{\proba}[1]{\mathbb{P}\left( #1 \right)}
+\renewcommand{\bar}[1]{\overline{#1}}
+\newcommand{\absoluto}[1]{\left\vert #1 \right\vert}
+\newcommand{\norma}[1]{\left\Vert #1 \right\Vert}
+\newcommand{\menorigual}{\leqslant}
+\newcommand{\esperanza}[1]{\mathbb{E}\left[ #1 \right]}
+\newcommand{\derecha}{\shadowbox{$\Rightarrow$}}
+\newcommand{\R}[1]{\mathbb{R}^{#1}}
+\newcommand{\K}[1]{\mathbb{K}^{#1}}
+\newcommand{\abs}{\absoluto}
+\newcommand{\izquierda}{\shadowbox{$\Leftarrow$}}
+\newcommand{\continuas}[1]{\mathcal{C}(#1)}
+\newcommand{\mayorigual}{\geqslant}
+\newcommand{\enn}{\in \mathbb{N}}
+\newcommand{\enr}{\in \mathbb{R}}
+\newcommand{\enz}{\in \mathbb{Z}}
+\newcommand{\ngoinf}{n\rightarrow \infty}
+\newcommand{\borel}[1]{\mathcal{B}(\mathbb{R}^{#1})}
+\newcommand{\solucion}{\begin{center} \section*{Solución} \end{center}}
+\newcommand{\minisonic}{\includegraphics[scale=0.02]{sonic2.png} }
+\newcommand{\sonic}{\begin{flushright} \includegraphics[scale=0.1]{sonic_the_hedgehog_walking_coloring_page.png} \end{flushright}}
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\obs}{\noindent \textbf{Observación}}
+\newcommand{\producto}{\prod_{i=1}^n}
+\newcommand{\gorro}{\widehat}
+\newcommand{\sumas}{\displaystyle \suma} 
+\newcommand{\suma}{\sum_{i=1}^{n}}
+\newcommand{\normal}{\mathcal{N}\parcurvo{\mu,\sigma^2}}
+\newcommand{\portanto}{\therefore}
+\newcommand{\est}{\widehat{\theta}}
+    \renewcommand{\v}[1]{\boldsymbol{#1}}
+\newcommand{\ssum}{\displaystyle \sum}
+
+\renewcommand{\familydefault}{\sfdefault}
 %%%%%%%%%%% Preambulo %%%%%%%%%%%%%%%%%%%%
 \documentclass[11pt,letterpaper]{report}
 \usepackage[utf8]{inputenc}
-\newcommand{\evaluada}[1]{\left. \right|_{#1}}
-\newcommand{\bg}[1]{\gorro{\beta_{#1}}}
+
 %%%%%%%%%%%%%%%5
 	\usepackage[explicit]{titlesec}
 	\usepackage{titletoc}
@@ -37,20 +103,14 @@
 \usepackage{mathrsfs}
 \usepackage{multicol}
 \usepackage{bbm}
-\newcommand{\indicatriz}{\mathbbm{1}}
+
 \usepackage{fancybox}
 \usepackage{cancel}
 \usepackage{amssymb}
 \usepackage[left=1.2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\newcommand{\pvi}[1]{
-\left\{ \begin{array}{lcc}
-            #1
-             \end{array}
-   \right.
-}
-\newcommand{\ssi}{\Longleftrightarrow}
+
 %%%%%%%%%%%%%%%%%%%% BORDES DE LA PAGINA %%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{fancyhdr} % activamos el paquete
 \pagestyle{fancy} % seleccionamos un estilo
@@ -62,7 +122,7 @@
 \rfoot{Pagina \thepage} % texto derecha del pie
 
 %streamplot[{0.4^((1.1 y )/ ( 0.0008 + x ),x- y},{x,0,0.3},{y,0,0.3}]
-\newcommand{\si}{\Longrightarrow}
+
 \renewcommand{\headrulewidth}{1pt}
 
 \renewcommand{\footrulewidth}{1pt}
@@ -81,56 +141,17 @@
 %%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%% LISTA DE COMANDOS NUEVOS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newcommand{\convergedebil}{\rightharpoonup}
-\newtheorem{notacion}{{\bf Notación }}[chapter] \newcommand{\cov}[1]{\text{cov}\parcurvo{ #1 }}
-\newcommand{\obs}{\noindent \textbf{Observación}}
+
+\newtheorem{notacion}{{\bf Notación }}[chapter] 
+
 \newtheorem{lema}{{\bf Lema}}[chapter]
 \newtheorem{coro}{{\bf Corolario }}[chapter]
 \newtheorem{prop}{{\bf Proposición }}[chapter]
 \newtheorem{dem}{\bf{Demostración}}[chapter]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newcommand{\varianza}[1]{\mathbb{V}\parcerrado{ #1 } }
-\newcommand{\estrella}{(\bigstar)}
-\newcommand{\ecuacion}[1]{\begin{align*}
-#1
-\end{align*}}
-\newcommand{\caja}[1]{\begin{center}
-\shadowbox{
-\begin{minipage}{6in}
-\vspace*{1mm}
-#1
-\vspace*{1mm}
-\end{minipage}}\end{center}}
-\renewcommand{\labelenumi}{\bf \arabic{enumi}.}
-\newcommand{\parcurvo }[1]{ \left( #1 \right)}
-\newcommand{\parllave}[1]{ \left\lbrace #1 \right\rbrace}
-\newcommand{\parcerrado}[1]{\left[ #1 \right]}
-\newcommand{\dual}[1]{#1^\ast}
-\newcommand{\gradiente}{\bigtriangledown}
-\newcommand{\parinterno}[1]{\left\langle #1 \right\rangle}
-\newcommand{\san}{\noindent}
-\newcommand{\proba}[1]{\mathbb{P}\left( #1 \right)}
-\renewcommand{\bar}[1]{\overline{#1}}
-\newcommand{\absoluto}[1]{\left\vert #1 \right\vert}
-\newcommand{\norma}[1]{\left\Vert #1 \right\Vert}
-\newcommand{\menorigual}{\leqslant}
-\newcommand{\esperanza}[1]{\mathbb{E}\left[ #1 \right]}
-\newcommand{\derecha}{\shadowbox{$\Rightarrow$}}
-\newcommand{\R}[1]{\mathbb{R}^{#1}}
-\newcommand{\K}[1]{\mathbb{K}^{#1}}
-\newcommand{\abs}{\absoluto}
-\newcommand{\izquierda}{\shadowbox{$\Leftarrow$}}
-\newcommand{\continuas}[1]{\mathcal{C}(#1)}
-\newcommand{\mayorigual}{\geqslant}
-\newcommand{\enn}{\in \mathbb{N}}
-\newcommand{\enr}{\in \mathbb{R}}
-\newcommand{\enz}{\in \mathbb{Z}}
-\newcommand{\ngoinf}{n\rightarrow \infty}
-\newcommand{\borel}[1]{\mathcal{B}(\mathbb{R}^{#1})}
-\newcommand{\solucion}{\begin{center} \section*{Solución} \end{center}}
-\newcommand{\minisonic}{\includegraphics[scale=0.02]{sonic2.png} }
-\newcommand{\sonic}{\begin{flushright} \includegraphics[scale=0.1]{sonic_the_hedgehog_walking_coloring_page.png} \end{flushright}}
-\newcommand{\F}{\mathcal{F}}
+
+\renewcommand{\labelenumi}{\textcolor{red}{\bf \arabic{enumi}.}}
+
 
 \definecolor{ocre}{RGB}{52,177,201} % Define the orange color used for highlighting throughout the book
 
@@ -482,13 +503,7 @@
 [
 #1
 \end{defi}}
-\newcommand{\producto}{\prod_{i=1}^n}
-\newcommand{\gorro}{\widehat}
-\newcommand{\sumas}{\displaystyle \suma} 
-\newcommand{\suma}{\sum_{i=1}^{n}}
-\newcommand{\normal}{\mathcal{N}\parcurvo{\mu,\sigma^2}}
-\newcommand{\portanto}{\therefore}
-\newcommand{\est}{\widehat{\theta}}
+
 
 %%%% extra %%
 
@@ -832,10 +847,7 @@
       citecolor=citecolor,
       }
     % Slightly bigger margins than the latex defaults
-    \renewcommand{\v}[1]{\boldsymbol{#1}}
-   \newcommand{\ssum}{\displaystyle \sum}
-   
-\renewcommand{\familydefault}{\sfdefault}
+
 \usepackage{helvet}
 \usepackage{colortbl}
 % fondo
@@ -843,6 +855,7 @@
 % \AddToShipoutPicture{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering{\transparent{0.05}\includegraphics[scale=1]{fondo.png}}\vfill}}}
 
 \begin{document}
+
 	\begin{center}
 		\huge{
 			\textbf{
