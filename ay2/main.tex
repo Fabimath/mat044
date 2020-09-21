@@ -853,7 +853,7 @@
 % fondo
 \usepackage{eurosym} % para el euro
 % \AddToShipoutPicture{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering{\transparent{0.05}\includegraphics[scale=1]{fondo.png}}\vfill}}}
-
+\renewcommand{\v}[1]{\boldsymbol{#1}}
 \begin{document}
 
 	\begin{center}
@@ -871,7 +871,7 @@ Suponga los siguientes conjuntos de datos:
 $$
 \v{x} = \{x_1,...,x_9\}, \quad \v{y} = \{y_1,...,y_9\}
 $$
-Los cuales corresponden a concentraciones de dos minerales en cierto depósito. Se obtuvo que $\displaystyle \bar{\v{x}} = 5, \bar{\v{y}}, \sum_{i=1}^9 (x_i - \bar{\v{x}} )^3 = 350$, y $\displaystyle \sum_{i=1}^9 (y_i - \bar{\v{y}})^2 = 248.$ 
+Los cuales corresponden a concentraciones de dos minerales en cierto depósito. Se obtuvo que $\displaystyle \bar{\v{x}} = 5, \bar{\v{y}}=3, \sum_{i=1}^9 (x_i - \bar{\v{x}} )^2 = 350$, y $\displaystyle \sum_{i=1}^9 (y_i - \bar{\v{y}})^2 = 248.$ 
 \begin{enumerate}
 	\item[\textcolor{red}{\bf{1.}}] Obtenga el coeficiente de correlación entre $\v{x}$ y $\v{y}$.
 	\item[\textcolor{red}{\bf{2.}}] Mediante \texttt{R}, obtenga todos los estadísticos mencionados en el problema sabiendo que los datos vienen dados por:
