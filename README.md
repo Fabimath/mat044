@@ -41,3 +41,4 @@ Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cu
 
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1](ay1/main.pdf) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 1](ay1/pa1.pdf) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 1](https://youtu.be/0LLz2Yfk0c8) 
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 2](ay2/main.pdf) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 2](ay2/pa2.pdf) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 2](https://youtu.be/g_UxW_jj3jw) 
+ - <img src="R_logo.svg" alt="drawing" width="18"/> [Códigos Ayudantía 2](ay2/ca2.R)
