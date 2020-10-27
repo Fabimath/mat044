@@ -45,3 +45,4 @@ Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cu
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Extra: Cálculo de percentiles en datos agrupados](https://youtu.be/D0TP61lLj6w)  
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 4](ay4/main.pdf) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 4](ay4/pa4.pdf) - <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 4](https://youtu.be/IX6eHTR--Go) 
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 5 - Preguntas y Respuestas](ay5/main.pdf) - <img src="git_logo.svg" alt="drawing" width="16"/> [Pauta control 1 en R](https://github.com/Fabimath/mat044/blob/master/Untitled.ipynb)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 6](ay6/main.pdf)
