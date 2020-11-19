@@ -47,6 +47,6 @@ Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cu
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 5 - Preguntas y Respuestas](ay5/main.pdf) - <img src="git_logo.svg" alt="drawing" width="16"/> [Pauta control 1 en R](https://github.com/Fabimath/mat044/blob/master/Untitled.ipynb)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 6](ay6/main.pdf) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 6](ay6/pa6.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 6](https://youtu.be/-Steux4ue0U) 
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 7](ay7/main.pdf)- <img src="pdf_logo.svg" alt="drawing" width="12"/> [Pauta Ayudantía 7](ay7/pa7.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 7](https://youtu.be/yMl1PsHj9D8) 
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 8 y Pauta](ay8/pa8.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 8](https://youtu.be/brWZiABTiW0) 
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 8 y Pauta](ay8/pa8.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 8](https://youtu.be/BR8vjNOyno4) 
 
 
