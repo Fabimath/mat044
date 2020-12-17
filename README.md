@@ -50,5 +50,6 @@ Y los días de ayudantía son los Miercoles 13-14 y Jueves 13-14. Pueden ir a cu
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 8 y Pauta](ay8/pa8.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 8](https://youtu.be/BR8vjNOyno4) 
 * <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 9](https://youtu.be/FcQTOigmivc) 
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 10 y Pauta](ay10/ay10.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 10](https://youtu.be/jD6Se9yVExQ) 
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 10 y Pauta](ay11/ay11.pdf)- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ayudantía 11](https://youtu.be/qGdMtZkSe3U) 
 
 
